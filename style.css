@@ -1,0 +1,29 @@
+#h1 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(172, 203, 243);
+}
+
+p {
+    color: rgb(53, 53, 53);
+    font-family: 'Space Mono' monospace, ;   
+}
+
+.sk1 {
+    font-size: large;
+}
+
+.sk2 {
+    font-size: medium;
+}
+
+.sk3 {
+    font-size: small;
+}
+
+#picture{
+    width: 150px;
+    border-radius: 100%;
